@@ -1,0 +1,22 @@
+{
+  "name": "git-projects",
+  "version": "1.0.0",
+  "description": "playground for git workflow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BennyBaruba/GitProjects.git"
+  },
+  "author": "Ben Ramseth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BennyBaruba/GitProjects/issues"
+  },
+  "homepage": "https://github.com/BennyBaruba/GitProjects#readme",
+  "devDependencies": {
+    "typescript": "^3.1.1"
+  }
+}
